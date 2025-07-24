@@ -98,10 +98,17 @@ This project is for **educational and showcase purposes only**. You may use or m
 
 ## 📷 Screenshots
 
-*Add your screenshots of gameplay here in the repo (e.g., under `/Screenshots`) and display them below.*
+<img width="988" height="543" alt="image" src="https://github.com/user-attachments/assets/a21cef7f-a101-4255-8aec-013a8db09282" />
 
-```markdown
-![Main Menu](Screenshots/main_menu.png)
-![Gameplay](Screenshots/gameplay.png)
+<img width="992" height="536" alt="image" src="https://github.com/user-attachments/assets/34d01b51-ea49-4901-9c80-d2c9d3897924" />
+
+<img width="990" height="536" alt="image" src="https://github.com/user-attachments/assets/42ac3043-cea8-47a0-aa1b-e479db82c33a" />
+
+<img width="991" height="542" alt="image" src="https://github.com/user-attachments/assets/9326b3f2-dd43-4b54-8536-0da363037045" />
+
+
+
+
+
 
 
